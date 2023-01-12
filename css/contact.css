@@ -1,34 +1,40 @@
-h2{
+h2 {
     text-align: center;
     font-weight: 600;
 
 
 }
-p{
+
+p {
     font-family: 'Inter', sans-serif;
-   font-weight: 400;
+    font-weight: 400;
     margin-top: 2rem;
     line-height: 2.4rem;
     color: var(--p-color);
 }
-h3{
+
+h3 {
     font-weight: 600;
+    margin-top: 3rem;
 }
 
 #contact-us .contact {
     text-align: center;
 }
-#contact-us .contact form input{
-    font-size: 1.6rem;
-    color:var(--p-color);
-    font-weight: 400;
-}
-#contact-us .contact form textarea{
+
+#contact-us .contact form input {
     font-size: 1.6rem;
     color: var(--p-color);
     font-weight: 400;
 }
-#contact-us .contact form .btn{
+
+#contact-us .contact form textarea {
+    font-size: 1.6rem;
+    color: var(--p-color);
+    font-weight: 400;
+}
+
+#contact-us .contact form .btn {
     padding: 1rem 3rem;
     font-size: 1.8rem;
     border-radius: 10px;
@@ -36,26 +42,30 @@ h3{
     margin-top: 2rem;
     border: none;
 }
-#contact-us .contact h2{
+
+#contact-us .contact h2 {
     font-weight: 700;
     color: var(--color-primary);
     text-align: center;
 }
-#contact-us .contact ul li{
-    list-style: none;  
+
+#contact-us .contact ul li {
+    list-style: none;
     margin-top: 1rem;
     color: var(--p-color);
 }
-#contact-us .contact ul li i{
+
+#contact-us .contact ul li i {
     color: var(--color-primary);
     font-size: 3rem;
 }
 
-#contact-us .free-consultation{
-background-color: var(--color-primary);
-color: #fff;
+#contact-us .free-consultation {
+    background-color: var(--color-primary);
+    color: #fff;
 }
-#contact-us .free-consultation .btn{
+
+#contact-us .free-consultation .btn1 {
     padding: 1rem 3rem;
     margin-top: 4rem;
     font-size: 1.8rem;
@@ -63,4 +73,9 @@ color: #fff;
     color: var(--color-primary);
     border-radius: 1rem;
     text-align: center;
+    border: none;
+}
+
+#contact-us .contact img {
+    background: transparent;
 }

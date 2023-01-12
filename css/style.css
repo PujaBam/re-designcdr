@@ -83,6 +83,19 @@ video {
   height: auto;
 }
 
+
+form input {
+  font-size: 1.6rem;
+  color: var(--p-color);
+  font-weight: 400;
+}
+
+form textarea {
+  font-size: 1.6rem;
+  color: var(--p-color);
+  font-weight: 400;
+}
+
 .footer{
     background-color: var(--color-primary);
 }

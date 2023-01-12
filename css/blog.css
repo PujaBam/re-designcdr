@@ -1,0 +1,50 @@
+h2{
+    color: var(--color-primary);
+    text-align: center;
+    font-weight: 600;
+}
+h3{
+    
+    font-weight: 600;
+    margin-top: 3rem;
+}
+p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6E6B7B;
+}
+#blog .about-blog .owl-carousel .button .btn .btn-link{
+    font-size: 20px;
+}
+#blog .quote-consultation .btn,
+#blog .response-guarantee .btn {
+    padding: 0.5rem 3rem;
+    font-size: 1.8rem;
+    border-radius: 10px;
+    background-color: var(--color-primary);
+    
+    border: none;
+  }
+#blog .about-blog{
+    font-size: 16px;
+}
+#blog .quote-consultation input{
+    font-size: 16px;
+   
+}
+#blog .quote-consultation form input {
+    font-size: 1.6rem;
+    color: var(--p-color);
+    font-weight: 400;
+}
+
+#blog .quote-consultation form textarea {
+    font-size: 1.6rem;
+    color: var(--p-color);
+    font-weight: 400;
+}
+#blog .response-guarantee i{
+    font-size: 30px;
+    color: var(--color-primary);
+}
+
